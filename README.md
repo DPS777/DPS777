@@ -4,31 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer in training
 ---------------------
 
-* 💼 Degree in Computer Science and Engineering at Lisbon's Faculdade de Ciências 
-* 👨🏻‍🎓 Currently pursuing a Master's Degree in Computer Science and Engineering at Lisbon's Faculdade de Ciências
-
-* 🌍  I'm based in Lisbon
-* ⚡  Fun Fact: There are 10 types of people in the world. Those who get Binary and those who don't...
-
-## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Diogo Silva'
-		current_work = 'Studying Computer Science and Engineering '
-		hobbies = [
-				'Gym',
-				'Watching Anime',
-			]
-	
-	def getCity():
-		return Lisbon_Portugal()
-	
-	def Ambitions():
-		LearnJapanese()
-		CreateStartUp()
-		# Assume 10 more awesome ambitions here  ;)
-	
- ```
+- <img src="https://raw.githubusercontent.com/dps777/dps777/main/FCUL_Logo.png" width="14" height="18"> Degree in Computer Science and Engineering Student @ FCUL
+- <img src="https://raw.githubusercontent.com/dps777/dps777/main/FCUL_Logo.png" width="14" height="18"> Currently pursuing a Master's Degree in Computer Science and Engineering @ FCUL
+- ⚡ My favourite languages are **C/Python**
+- ❤️ Open Source Software
+- 🌍  I'm based in Lisbon
+- ⚡  Fun Fact: There are 10 types of people in the world. Those who get Binary and those who don't...
 
 ### Skills
 
