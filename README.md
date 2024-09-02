@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer in training
 ---------------------
 
-- <img src="https://raw.githubusercontent.com/dps777/dps777/main/FCUL_Logo.png" width="14" height="18"> Degree in Computer Science and Engineering Student @ FCUL
-- <img src="https://raw.githubusercontent.com/dps777/dps777/main/FCUL_Logo.png" width="14" height="18"> Currently pursuing a Master's Degree in Computer Science and Engineering @ FCUL
+- <img src="https://raw.githubusercontent.com/dps777/dps777/main/FCUL_Logo.png" width="20" height="20"> Degree in Computer Science and Engineering Student @ FCUL
+- <img src="https://raw.githubusercontent.com/dps777/dps777/main/FCUL_Logo.png" width="20" height="20"> Currently pursuing a Master's Degree in Computer Science and Engineering @ FCUL
 - ⚡ My favourite languages are **C/Python**
 - ❤️ Open Source Software
 - 🌍  I'm based in Lisbon
