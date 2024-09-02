@@ -9,6 +9,26 @@ Degree in Computer Science and Engineering at Lisbon's Faculdade de Ciências Cu
 * 🌍  I'm based in Lisbon
 * ⚡  There are 10 types of people in the world. Those who get Binary and those who don't...
 
+*  ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Diogo Silva'
+		current_work = 'Writing code'
+		hobbies = [
+				'Gym',
+				'Watching Anime',
+			]
+	
+	def getCity():
+		return Lisbon_Portugal()
+	
+	def Ambitions():
+		LearnJapanese()
+		CreateStartUp()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
+
 ### Skills
 
 <p align="left">
